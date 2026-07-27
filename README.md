@@ -1,5 +1,5 @@
-## Who am I? 👋 I'm Sol,A Full-Stack Dev & Smart Contract Eng
-### My Tech Stack
+### Who am I? 👋 I'm Sol,A Full-Stack Dev & Smart Contract Eng
+#### My Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -11,7 +11,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-### Contact Me
+#### Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wenyao.dev@gmail.com)
 [![X](https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white)](https://x.com/SolDev08)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/SolDev08)
