@@ -12,7 +12,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-2b247c?style=flat&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-c5621b?style=flat&logo=Claude&logoColor=white)
-![Chatgpt](https://img.shields.io/badge/Chatgpt-0000000a?style=flat&logo=Chatgpt&logoColor=000000)
+![Chatgpt](https://img.shields.io/badge/Chatgpt-black?style=flat&logo=Chatgpt&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-26251e?style=flat&logo=Cursor&logoColor=white)
 #### Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wenyao.dev@gmail.com)
