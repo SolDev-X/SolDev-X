@@ -15,7 +15,7 @@
 ![Cursor](https://img.shields.io/badge/Cursor-26251e?style=flat&logo=Cursor&logoColor=white)
 #### Contact Me
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wenyao.dev@gmail.com)
-[!(https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white)](https://x.com/your-username)
+[![X](https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white)](https://x.com/your-username)
 [![Telegram](https://img.shields.io/badge/Telegram-3390ec?style=flat&logo=telegram&logoColor=white)](https://t.me/SolDev08)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/SolDev08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
