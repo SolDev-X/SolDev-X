@@ -14,8 +14,8 @@
 ![Claude](https://img.shields.io/badge/Claude-c5621b?style=flat&logo=Claude&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-26251e?style=flat&logo=Cursor&logoColor=white)
 #### Contact Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wenyao.dev@gmail.com)
-[![X](https://img.shields.io/badge/X-0f1419?style=flat&logo=x&logoColor=white)](https://x.com/SolDev08)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wenyao.dev@gmail.com)
+(https://img.shields.io/badge/X-0f1419?style=flat&logo=x&logoColor=white)](https://x.com/SolDev08)
 [![Telegram](https://img.shields.io/badge/Telegram-3390ec?style=flat&logo=telegram&logoColor=white)](https://t.me/SolDev08)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/SolDev08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SolDev08)
