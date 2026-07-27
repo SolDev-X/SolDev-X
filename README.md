@@ -11,6 +11,9 @@
 ![Prisma](https://img.shields.io/badge/Prisma-14b8a6?style=flat&logo=prisma&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-2b247c?style=flat&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-c5621b?style=flat&logo=Claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-ffffff?style=flat&logo=Claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-26251e?style=flat&logo=Claude&logoColor=white)
 #### Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wenyao.dev@gmail.com)
 [![X](https://img.shields.io/badge/X-0f1419?style=flat&logo=x&logoColor=white)](https://x.com/SolDev08)
