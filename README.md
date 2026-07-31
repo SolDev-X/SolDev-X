@@ -11,6 +11,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-14b8a6?style=flat&logo=prisma&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-2b247c?style=flat&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2b5b84?style=flat&logo=rust&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-c5621b?style=flat&logo=Claude&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-26251e?style=flat&logo=Cursor&logoColor=white)
 #### Contact Me
