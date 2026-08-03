@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+SolDev+%F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2B247C&vCenter=true&width=350&height=20&lines=Hi%2C+I'm+SolDev+%F0%9F%91%8B)
 #### My Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
