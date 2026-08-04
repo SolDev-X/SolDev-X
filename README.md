@@ -20,7 +20,6 @@
 ![Solidity](https://img.shields.io/badge/Solidity-2b247c?style=flat&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-007d9c?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2b5b84?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-417e38?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-087ea4?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-171717?style=flat&logo=next.js&logoColor=white)
