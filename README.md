@@ -26,14 +26,3 @@
 ![Docker](https://img.shields.io/badge/Docker-1d63ed?style=flat&logo=docker&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-00a6f4?style=flat&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-
-
-
-
-
-
-
-
-
-
