@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=16&pause=1000&color=2B247C&vCenter=true&width=350&height=20&lines=Hi%2C+I%27m+Elijah Zheng)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=16&pause=1000&color=2B247C&vCenter=true&width=350&height=20&lines=Hi%2C+I%27m+Elijah+Zheng)
   <p>
     <code>Born 2008-12-20</code>
     <code>Full Stack Software Eng</code>
